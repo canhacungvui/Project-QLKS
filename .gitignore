@@ -244,3 +244,4 @@ ModelManifest.xml
 *.config
 *.edmx
 Program.cs
+Model
